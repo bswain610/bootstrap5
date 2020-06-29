@@ -1,0 +1,15 @@
+Bootstrap 5 update in 16 june 2020
+ some change of bootstrap 4 to bootstrap5 
+
+1. jQuery was removed 
+2. switch to vanilla javascript
+3. Drop inernet Explorer 10 to 11 support
+4. improved gird system
+5. improved documentation
+6.improved modularity
+7.improved forms
+8.new responsive font
+9.New utilities & helpers
+10. easier customization & theming 
+11. Lighter package 
+12. new API available
